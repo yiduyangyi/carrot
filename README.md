@@ -1,2 +1,1 @@
-# carrot
-personal site
+personal technology notes
